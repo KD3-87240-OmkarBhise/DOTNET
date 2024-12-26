@@ -1,0 +1,14 @@
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\bin\Debug\net8.0\ConsoleApp_Question3.exe
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\bin\Debug\net8.0\ConsoleApp_Question3.deps.json
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\bin\Debug\net8.0\ConsoleApp_Question3.runtimeconfig.json
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\bin\Debug\net8.0\ConsoleApp_Question3.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\bin\Debug\net8.0\ConsoleApp_Question3.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.AssemblyInfoInputs.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.AssemblyInfo.cs
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.csproj.CoreCompileInputs.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\obj\Debug\net8.0\refint\ConsoleApp_Question3.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\obj\Debug\net8.0\ConsoleApp_Question3.genruntimeconfig.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment1_Solution\ConsoleApp_Question3\obj\Debug\net8.0\ref\ConsoleApp_Question3.dll

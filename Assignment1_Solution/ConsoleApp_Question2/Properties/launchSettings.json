@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp_Question2": {
+      "commandName": "Project",
+      "commandLineArgs": "34 4 /"
+    }
+  }
+}

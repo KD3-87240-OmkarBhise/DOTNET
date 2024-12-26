@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment1_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C37261E4-0B1F-4503-A4FE-AA112063730A}|ConsoleApp_Question3\\ConsoleApp_Question3.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\assignment1_solution\\consoleapp_question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37261E4-0B1F-4503-A4FE-AA112063730A}|ConsoleApp_Question3\\ConsoleApp_Question3.csproj|solutionrelative:consoleapp_question3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C369BC36-2FB2-4CEF-A3DE-7918EB41A5AC}|ConsoleApp_Question2\\ConsoleApp_Question2.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\assignment1_solution\\consoleapp_question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C369BC36-2FB2-4CEF-A3DE-7918EB41A5AC}|ConsoleApp_Question2\\ConsoleApp_Question2.csproj|solutionrelative:consoleapp_question2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C369BC36-2FB2-4CEF-A3DE-7918EB41A5AC}|ConsoleApp_Question2\\ConsoleApp_Question2.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\assignment1_solution\\consoleapp_question2\\consoleapp_question2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C369BC36-2FB2-4CEF-A3DE-7918EB41A5AC}|ConsoleApp_Question2\\ConsoleApp_Question2.csproj|solutionrelative:consoleapp_question2\\consoleapp_question2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D866A3-731F-4A78-A1F4-9C52F5F813C1}|Assignment1_Question1\\Assignment1_Question1.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\assignment1_solution\\assignment1_question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D866A3-731F-4A78-A1F4-9C52F5F813C1}|Assignment1_Question1\\Assignment1_Question1.csproj|solutionrelative:assignment1_question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment1_Solution\\ConsoleApp_Question3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Question3\\Program.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment1_Solution\\ConsoleApp_Question3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp_Question3\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:22:49.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp_Question2",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment1_Solution\\ConsoleApp_Question2\\ConsoleApp_Question2.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp_Question2\\ConsoleApp_Question2.csproj",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment1_Solution\\ConsoleApp_Question2\\ConsoleApp_Question2.csproj",
+              "RelativeToolTip": "ConsoleApp_Question2\\ConsoleApp_Question2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T12:10:47.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment1_Solution\\ConsoleApp_Question2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Question2\\Program.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment1_Solution\\ConsoleApp_Question2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp_Question2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:28:38.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment1_Solution\\Assignment1_Question1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1_Question1\\Program.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment1_Solution\\Assignment1_Question1\\Program.cs",
+              "RelativeToolTip": "Assignment1_Question1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T11:27:36.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
