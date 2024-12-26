@@ -1,0 +1,14 @@
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\bin\Debug\net8.0\HelloCSharp.exe
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\bin\Debug\net8.0\HelloCSharp.deps.json
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\bin\Debug\net8.0\HelloCSharp.runtimeconfig.json
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\bin\Debug\net8.0\HelloCSharp.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\bin\Debug\net8.0\HelloCSharp.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\obj\Debug\net8.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\obj\Debug\net8.0\HelloCSharp.AssemblyInfoInputs.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\obj\Debug\net8.0\HelloCSharp.AssemblyInfo.cs
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\obj\Debug\net8.0\HelloCSharp.csproj.CoreCompileInputs.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\obj\Debug\net8.0\HelloCSharp.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\obj\Debug\net8.0\refint\HelloCSharp.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\obj\Debug\net8.0\HelloCSharp.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\obj\Debug\net8.0\HelloCSharp.genruntimeconfig.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Day1LabWork\HelloCSharp\obj\Debug\net8.0\ref\HelloCSharp.dll
