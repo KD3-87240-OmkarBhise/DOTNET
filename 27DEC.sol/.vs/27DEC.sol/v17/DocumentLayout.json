@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\27DEC.sol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0133ED28-BD0B-4BD6-8508-BF109D1A816C}|01DemoBasics\\01DemoBasics.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\27dec.sol\\01demobasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0133ED28-BD0B-4BD6-8508-BF109D1A816C}|01DemoBasics\\01DemoBasics.csproj|solutionrelative:01demobasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE06F7FA-B12A-46F2-92ED-F659C013676F}|00DemoBasics\\00DemoBasics.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\27dec.sol\\00demobasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE06F7FA-B12A-46F2-92ED-F659C013676F}|00DemoBasics\\00DemoBasics.csproj|solutionrelative:00demobasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE06F7FA-B12A-46F2-92ED-F659C013676F}|00DemoBasics\\00DemoBasics.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\27dec.sol\\00demobasics\\00demobasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CE06F7FA-B12A-46F2-92ED-F659C013676F}|00DemoBasics\\00DemoBasics.csproj|solutionrelative:00demobasics\\00demobasics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F6EBEA-C3EB-49B6-94D7-B340E1D413FD}|Math\\MathLib.csproj|C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\27DEC.sol\\Math\\Maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F6EBEA-C3EB-49B6-94D7-B340E1D413FD}|Math\\MathLib.csproj|solutionrelative:Math\\Maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\27DEC.sol\\01DemoBasics\\Program.cs",
+              "RelativeDocumentMoniker": "01DemoBasics\\Program.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\27DEC.sol\\01DemoBasics\\Program.cs",
+              "RelativeToolTip": "01DemoBasics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T10:01:14.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "00DemoBasics.csproj",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\27DEC.sol\\00DemoBasics\\00DemoBasics.csproj",
+              "RelativeDocumentMoniker": "00DemoBasics\\00DemoBasics.csproj",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\27DEC.sol\\00DemoBasics\\00DemoBasics.csproj",
+              "RelativeToolTip": "00DemoBasics\\00DemoBasics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-27T10:39:37.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Maths.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\27DEC.sol\\Math\\Maths.cs",
+              "RelativeDocumentMoniker": "Math\\Maths.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\27DEC.sol\\Math\\Maths.cs",
+              "RelativeToolTip": "Math\\Maths.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:18:52.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\27DEC.sol\\00DemoBasics\\Program.cs",
+              "RelativeDocumentMoniker": "00DemoBasics\\Program.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\27DEC.sol\\00DemoBasics\\Program.cs",
+              "RelativeToolTip": "00DemoBasics\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:10:16.38Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

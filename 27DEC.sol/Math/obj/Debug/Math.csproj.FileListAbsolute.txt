@@ -1,0 +1,6 @@
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\Math\bin\Debug\Math.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\Math\bin\Debug\Math.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\Math\obj\Debug\Math.csproj.AssemblyReference.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\Math\obj\Debug\Math.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\Math\obj\Debug\Math.pdb

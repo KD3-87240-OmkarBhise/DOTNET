@@ -1,0 +1,15 @@
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\bin\Debug\net8.0\01DemoBasics.exe
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\bin\Debug\net8.0\01DemoBasics.deps.json
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\bin\Debug\net8.0\01DemoBasics.runtimeconfig.json
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\bin\Debug\net8.0\01DemoBasics.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\bin\Debug\net8.0\01DemoBasics.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\obj\Debug\net8.0\01DemoBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\obj\Debug\net8.0\01DemoBasics.AssemblyInfoInputs.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\obj\Debug\net8.0\01DemoBasics.AssemblyInfo.cs
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\obj\Debug\net8.0\01DemoBasics.csproj.CoreCompileInputs.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\obj\Debug\net8.0\01DemoBasics.sourcelink.json
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\obj\Debug\net8.0\01DemoBasics.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\obj\Debug\net8.0\refint\01DemoBasics.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\obj\Debug\net8.0\01DemoBasics.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\obj\Debug\net8.0\01DemoBasics.genruntimeconfig.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\27DEC.sol\01DemoBasics\obj\Debug\net8.0\ref\01DemoBasics.dll
