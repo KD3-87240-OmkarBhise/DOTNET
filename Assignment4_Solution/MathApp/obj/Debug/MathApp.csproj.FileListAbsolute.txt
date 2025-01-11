@@ -1,0 +1,10 @@
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\MathApp\bin\Debug\MathApp.exe.config
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\MathApp\bin\Debug\MathApp.exe
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\MathApp\bin\Debug\MathApp.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\MathApp\obj\Debug\MathApp.csproj.AssemblyReference.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\MathApp\obj\Debug\MathApp.csproj.CoreCompileInputs.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\MathApp\obj\Debug\MathApp.exe
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\MathApp\obj\Debug\MathApp.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\MathApp\bin\Debug\MathLib.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\MathApp\bin\Debug\MathLib.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\MathApp\obj\Debug\MathApp.csproj.Up2Date

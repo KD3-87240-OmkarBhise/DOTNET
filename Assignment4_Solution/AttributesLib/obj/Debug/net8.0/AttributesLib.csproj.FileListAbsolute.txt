@@ -1,0 +1,12 @@
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\bin\Debug\net8.0\AttributesLib.deps.json
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\bin\Debug\net8.0\AttributesLib.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\bin\Debug\net8.0\AttributesLib.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\obj\Debug\net8.0\AttributesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\obj\Debug\net8.0\AttributesLib.AssemblyInfoInputs.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\obj\Debug\net8.0\AttributesLib.AssemblyInfo.cs
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\obj\Debug\net8.0\AttributesLib.csproj.CoreCompileInputs.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\obj\Debug\net8.0\AttributesLib.sourcelink.json
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\obj\Debug\net8.0\AttributesLib.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\obj\Debug\net8.0\refint\AttributesLib.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\obj\Debug\net8.0\AttributesLib.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment4_Solution\AttributesLib\obj\Debug\net8.0\ref\AttributesLib.dll

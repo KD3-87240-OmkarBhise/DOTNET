@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2330EBCE-4021-4399-8A4C-6FE13542CE69}|ORM\\ORM.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\assignment4_solution\\orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2330EBCE-4021-4399-8A4C-6FE13542CE69}|ORM\\ORM.csproj|solutionrelative:orm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E10AF27-EBAF-4228-B4DD-FF9F6BB38DE4}|EntityLib\\EntityLib.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\assignment4_solution\\entitylib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E10AF27-EBAF-4228-B4DD-FF9F6BB38DE4}|EntityLib\\EntityLib.csproj|solutionrelative:entitylib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34926340-8AFF-4E2C-B8DD-CBA79606A794}|AttributesLib\\AttributesLib.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\assignment4_solution\\attributeslib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34926340-8AFF-4E2C-B8DD-CBA79606A794}|AttributesLib\\AttributesLib.csproj|solutionrelative:attributeslib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F100A-E78E-4C1F-9965-09444469F06A}|MathApp\\MathApp.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\assignment4_solution\\mathapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F100A-E78E-4C1F-9965-09444469F06A}|MathApp\\MathApp.csproj|solutionrelative:mathapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F100A-E78E-4C1F-9965-09444469F06A}|MathApp\\MathApp.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\assignment4_solution\\mathapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B78F100A-E78E-4C1F-9965-09444469F06A}|MathApp\\MathApp.csproj|solutionrelative:mathapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2BDBC5-66BE-4C57-B783-983BE055AB62}|MathLib\\MathLib.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\assignment4_solution\\mathlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2BDBC5-66BE-4C57-B783-983BE055AB62}|MathLib\\MathLib.csproj|solutionrelative:mathlib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2BDBC5-66BE-4C57-B783-983BE055AB62}|MathLib\\MathLib.csproj|c:\\sunbeam\\dotnet\\mygitdata\\dotnet\\assignment4_solution\\mathlib\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2BDBC5-66BE-4C57-B783-983BE055AB62}|MathLib\\MathLib.csproj|solutionrelative:mathlib\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\ORM\\Program.cs",
+              "RelativeDocumentMoniker": "ORM\\Program.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\ORM\\Program.cs",
+              "RelativeToolTip": "ORM\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:05:35.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\EntityLib\\Class1.cs",
+              "RelativeDocumentMoniker": "EntityLib\\Class1.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\EntityLib\\Class1.cs",
+              "RelativeToolTip": "EntityLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:03:56.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\AttributesLib\\Class1.cs",
+              "RelativeDocumentMoniker": "AttributesLib\\Class1.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\AttributesLib\\Class1.cs",
+              "RelativeToolTip": "AttributesLib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T10:02:13.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\MathApp\\App.config",
+              "RelativeDocumentMoniker": "MathApp\\App.config",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\MathApp\\App.config",
+              "RelativeToolTip": "MathApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-11T09:58:52.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\MathLib\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MathLib\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\MathLib\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "MathLib\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:58:01.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\MathApp\\Program.cs",
+              "RelativeDocumentMoniker": "MathApp\\Program.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\MathApp\\Program.cs",
+              "RelativeToolTip": "MathApp\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:55:56.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\MathLib\\Class1.cs",
+              "RelativeDocumentMoniker": "MathLib\\Class1.cs",
+              "ToolTip": "C:\\Sunbeam\\DOTNET\\MyGitData\\DOTNET\\Assignment4_Solution\\MathLib\\Class1.cs",
+              "RelativeToolTip": "MathLib\\Class1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T09:54:35.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
