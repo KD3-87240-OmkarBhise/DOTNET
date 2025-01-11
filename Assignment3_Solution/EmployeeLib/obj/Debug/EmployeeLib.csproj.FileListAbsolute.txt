@@ -1,0 +1,6 @@
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment3_Solution\EmployeeLib\bin\Debug\EmployeeLib.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment3_Solution\EmployeeLib\bin\Debug\EmployeeLib.pdb
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment3_Solution\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment3_Solution\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment3_Solution\EmployeeLib\obj\Debug\EmployeeLib.dll
+C:\Sunbeam\DOTNET\MyGitData\DOTNET\Assignment3_Solution\EmployeeLib\obj\Debug\EmployeeLib.pdb
